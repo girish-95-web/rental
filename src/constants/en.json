@@ -1,0 +1,16 @@
+{
+  "header": {
+    "home": "Home",
+    "switchGuest": "Switch to guest",
+    "switchHost": "Switch to host",
+    "help": "Help",
+    "profile": "My Profile",
+    "logOut": "Logout",
+    "login": "Login",
+    "signUp": "Sign up",
+    "becomeLandlord":"Become a landlord"
+  },
+  "home":{
+    "bannerHeading": "Empower people with affordable office space"
+  }
+}

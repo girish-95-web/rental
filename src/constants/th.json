@@ -1,0 +1,16 @@
+{
+  "header": {
+    "home": "maison",
+    "switchGuest": "Passer à l'invité",
+    "switchHost": "Passer à l'hôte",
+    "help": "Aidez-moi",
+    "profile": "Mon profil",
+    "logOut": "Se déconnecter",
+    "login": "s'identifier",
+    "signUp": "S'inscrire",
+    "becomeLandlord":"Devenez propriétaire"
+  },
+  "home":{
+    "bannerHeading": "Offrez aux gens un espace de bureau abordable"
+  }
+}
